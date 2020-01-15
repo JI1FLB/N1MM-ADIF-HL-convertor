@@ -114,7 +114,7 @@ check_QSLyesno.place(x=140, y=50)
 # label
 Remarks1 = tk.Label(        text="Hamlog Remarks1: ")
 Remarks1.place(x=30, y=90)
-label_top = tk.Label( text ="N1MM+ ADIFファイルからJARLコンテストログ生成ツール")
+label_top = tk.Label( text ="N1MM+ ADIFファイル to Turbo HAM log CSVファイル生成ツール")
 label_top.pack()
 
 label_term1 = tk.Label( text ="1.パラメータ設定")
