@@ -5,7 +5,6 @@ from tkinter import filedialog
 from Phase3 import phase3,phase1
 
 
-
 #Tk class generating
 root = tk.Tk()
 
